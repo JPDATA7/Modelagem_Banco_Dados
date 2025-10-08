@@ -17,4 +17,10 @@ Garantir uma estrutura de banco de dados consistente e escalável para armazenar
 - 🏢 **Gestão de fornecedores;**  
 - 🚚 **Acompanhamento de status e entrega.**
 
+---
+
+## ✍🏽 Modelagem
+
+![Modelagem do Banco de Dados E-commerce](Modelagem%20Dados%20Banco%20de%20Dados%20E-Commerce.png)
+
 
